@@ -7,7 +7,7 @@ and then,
 type this in your terminal CLI: 
 
 ```
-python my_color_detection.py -i gaytiger.jpg
+python my_color_detection.py -i gaytiger.png
 ```
 
 The image will be displayed in a new window. You can double-click anywhere in the image and see the Color-name of that pixel.
