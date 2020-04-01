@@ -11,3 +11,6 @@ python my_color_detection.py -i gaytiger.png
 ```
 
 The image will be displayed in a new window. You can double-click anywhere in the image and see the Color-name of that pixel.
+
+To close the image, hit "ESC" key on your keyboard.
+
