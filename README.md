@@ -6,7 +6,7 @@ Code to recognize the color of any pixel in a provided image.
 - This code helped me to get the RGB values for any particular color found anywhere online. All I had to do was take a screenshot and use this tool as a colorpicker. 
 
 ## How to Run it on your machine.
-I have provided a *good* image, to test the code on.
+I have provided an image, to test the code on.
 To run the code on your machine, make sure that you have latest version of python installed.
 and then,
 type this in your terminal CLI: 
